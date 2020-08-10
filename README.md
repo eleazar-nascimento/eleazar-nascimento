@@ -1,5 +1,6 @@
-<img width="auto" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
-
+<p align="center">
+  <img width="auto" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
+</p>
 
 # Eleazar Nascimento
 
