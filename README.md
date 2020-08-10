@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
+  <img width="auto" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
 </p>
 
 # Eleazar Nascimento
