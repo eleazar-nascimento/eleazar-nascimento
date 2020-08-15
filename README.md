@@ -14,6 +14,6 @@ Sou um Web Developer :computer:
  <br/> :computer: &nbsp; Estou estudando: ReactJS, Node.js, React Native, Typescript, PHP & Laravel
  <br/> :computer: &nbsp; Minha stack: Javascript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://br.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b)](https://www.linkedin.com/in/eleazar.nascimento/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [LinkedIn](https://br.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b)
 | 
 [![Gmail Badge](https://img.shields.io/badge/-eleazar.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eleazar.nascimento@gmail.com)](mailto:eleazar.nascimento@gmail.com)
