@@ -4,7 +4,7 @@
 
 # Eleazar Nascimento
 
-## Olá pessoal 👋
+## Eae Galera! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
