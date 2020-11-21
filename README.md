@@ -10,7 +10,7 @@ Sou um Web Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **2Share Multipropiedades**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React & TypeScript
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox, Design de Interfaces também!
  <br/> :computer: &nbsp; Estou estudando: ReactJS, Node.js, React Native, Typescript, PHP & Laravel
  <br/> :computer: &nbsp; Minha stack: Javascript + TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, LoL e seriados no Netflix
