@@ -8,10 +8,10 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **2Share Multipropiedades**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React & TypeScript
+ :rocket:  &nbsp; Estou trabalhando aberto a novas propostas de emprego
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React & TypeScript, Chakra UI, Stiches.
  <br/> :blush: &nbsp; Posso te ajudar com React e Typescript, Design de Interfaces também!
- <br/> :computer: &nbsp; Estou estudando: ReactJS, Node.js e Typescript.
+ <br/> :computer: &nbsp; Estou estudando: Node.js e Typescript.
  <br/> :computer: &nbsp; Minha stack: Javascript + TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, LoL e seriados no Netflix e Amazon.
  <br/> :email: &nbsp; Entre em contato comigo: [LinkedIn](https://br.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b)
