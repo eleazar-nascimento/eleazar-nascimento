@@ -6,9 +6,9 @@
 
 ## Eae Galera! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Web Developer :computer:
+Sou um Software Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando aberto a novas propostas de emprego
+ :rocket:  &nbsp; Estou trabalhando e estou aberto a novas propostas de emprego
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React & TypeScript, Chakra UI, Stiches.
  <br/> :blush: &nbsp; Posso te ajudar com React e Typescript, Design de Interfaces também!
  <br/> :computer: &nbsp; Estou estudando: Node.js e Typescript.
